@@ -7,7 +7,7 @@ This repository showcases my project for detecting a single person in images usi
 The motivation behind this project stemmed from my interest in object detection and the desire to build a lightweight and efficient model. I aimed to create a model that could detect individuals in images while minimizing computational complexity.
 
 ### Challenges Faced
-* __Data Handling:__ Gathering and preprocessing data from the COCO dataset was challenging and time consuming. Ensuring that the images contained only one person require Consistency because of the size of annotaion json file.  
+* __Data Handling:__ Gathering and preprocessing data from the COCO dataset was challenging and time consuming. Ensuring that the images contained only one person require Consistency because of the size of annotation json file.  
 * __Complexity Management:__ Training deep learning models is inherently resource-intensive. I faced memory constraints and had to optimize my model architecture for efficiency.  
 * __Grayscale Conversion:__ Converting images to grayscale was a significant decision to reduce complexity. This approach helped simplify feature extraction but required thorough testing to ensure the model still performed well.  
 
