@@ -18,6 +18,8 @@ __* Foundational Step:__ This project serves as a solid stepping stone toward mo
 ## Sample Model Architecture
 The architecture of the CNN model is designed to effectively capture features while remaining lightweight. Below is a brief overview of the architecture:
 
+[![Screenshot (173)](https://github.com/user-attachments/assets/d5664162-e3e6-40de-9404-65715410f885)](https://www.kaggle.com/code/nishantsingh96/peronscoco)
+[![Screenshot (174)](https://github.com/user-attachments/assets/c6ef578b-4966-45b1-b7b8-90aa4a19800f)](https://www.kaggle.com/code/nishantsingh96/peronscoco)
 
 
 The model has demonstrated promising results in predicting bounding boxes for single-person images. Visualizations of the predicted bounding boxes can be found in the repository.
