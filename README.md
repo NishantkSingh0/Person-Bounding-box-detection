@@ -27,5 +27,5 @@ The model has demonstrated promising results in predicting bounding boxes for si
 ## Future Directions:
 
 * Expand the model to support multi-object detection.
-* Explore more advanced techniques, such as Transfer Learning and pre-trained models, to enhance accuracy and efficiency.
+* Explore more advanced techniques, such as Vision Transformer and more deep CNN's for effective feature extraction, to enhance accuracy and efficiency.
 * Experiment with data augmentation methods to improve model robustness and generalization.
